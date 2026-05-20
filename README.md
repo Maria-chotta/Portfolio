@@ -1,4 +1,4 @@
-# 🌐 Mariam Portfolio Website
+# 🌐 24BITO69 Mariam Portfolio Website 
 
 A personal portfolio website built using **HTML5 and CSS3** as part of a Web Technologies course assignment.  
 It showcases my skills, projects, and contact information in a clean and responsive layout.
